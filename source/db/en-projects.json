@@ -5273,5 +5273,27 @@
       }
     ],
     "slug": "bleachbit"
+  },
+  {
+    "description": "A free software for file encryption on the Windows platfor"m,
+    "license_url": "http://www.axantum.com/AxCrypt/License.html",
+    "logo": "axcrypt.png",
+    "notes": "At the moment AxCrypt supports only AES with 128bit. AES256 is expected for the next version",
+    "privacy_url": "",
+    "source_url": "http://sourceforge.net/projects/axcrypt/",
+    "name": "AxCrypt",
+    "tos_url": "",
+    "url": "http://www.axantum.com/AxCrypt/Default.htm",
+    "wikipedia_url": "https://fr.wikipedia.org/wiki/AxCrypt",
+    "protocols": [],
+    "categories": [
+      {
+        "name": "Windows",
+        "subcategories": [
+          "Disk Encryption"
+        ]
+      }
+    ],
+    "slug": "axcrypt"
   }
 ]
